@@ -14,5 +14,5 @@
 
 homepage: "https://keyword-experte.de/"
 versions:
-  - sha: 3c78f1a6d18800a7ca593dabdea512db7c90f03a
+  - sha: a4b89b7ab512df51dda2460b97ea165eeb1849d9
     changeNotes: Initial Version
